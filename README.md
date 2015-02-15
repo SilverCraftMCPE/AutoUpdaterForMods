@@ -1,0 +1,2 @@
+# AutoUpdaterForMods
+Auto Updater File
